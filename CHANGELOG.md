@@ -1,6 +1,6 @@
 #Changelog
 
-## vNext
+## 2.3.0
 
 ### Features
 - Added `overrideType` helper method to overcome issues with Mocha in `--watch` mode on consuming packages
