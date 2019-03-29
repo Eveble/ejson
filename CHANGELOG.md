@@ -3,7 +3,7 @@
 ## 2.3.0
 
 ### Features
-- Added `overrideType` helper method to overcome issues with Mocha in `--watch` mode on consuming packages
+- Added `overrideType` helper method to overcome issues with Mocha in `--watch` mode on consuming packages ([PR 2](https://github.com/Eveble/ejson/pull/2))
 
 ## 2.2.0
 
